@@ -48,7 +48,7 @@ export default function Header() {
             <button>Learn More on My Projects</button>
           </div>
         </div>
-        <img src="/dist/assets/Images/bg3.png" />
+        <img src="/dist/assets/bg3.png" />
       </div>
     </>
 
