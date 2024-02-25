@@ -26,7 +26,7 @@ export default function Header() {
           <p className='title'>Hi, <span style={{ color: '#aacbff' }}>I'm Eden</span></p>
           <p className='second-title'>Practical software engineer
           </p>
-          <p className='second-title'>Check out my profile :)</p>
+          <p className='second-title'>Check out my profile !</p>
           <div className="social-media-links">
             <a href="https://www.linkedin.com/in/edendayan">
               <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="50" height="50" viewBox="0 0 50 50">
