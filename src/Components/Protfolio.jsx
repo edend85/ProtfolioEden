@@ -1,5 +1,6 @@
 import React from 'react';
 import '../styles/Styels.css';
+import PrjIcon from '../assets/Images/project.png';
 
 export default function Protfolio() {
     return (
@@ -10,7 +11,7 @@ export default function Protfolio() {
             <div id='projects-grid'>
                 <div className='singal-project'>
                     <div className='singal-project-columns'>
-                        <img src="/dist/assets/Images/project.png" />
+                        <img src={PrjIcon} />
                         <h4>Final Project - SmokeEye</h4>
                         <div className='singal-project-btns'>
                             <button>Demo</button>
@@ -29,7 +30,7 @@ export default function Protfolio() {
                 </div>
                 <div className='singal-project'>
                     <div className='singal-project-columns'>
-                        <img src="/src/assets/Images/project.png" />
+                        <img src={PrjIcon} />
                         <h4>Authentication Website</h4>
                         <div className='singal-project-btns'>
                             <button>Demo</button>

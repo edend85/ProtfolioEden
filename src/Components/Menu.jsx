@@ -1,4 +1,5 @@
 import '../styles/Styels.css';
+import Logo from '../assets/Images/eden-logos_black_111.png'
 export default function Menu() {
 
     return (
@@ -6,7 +7,7 @@ export default function Menu() {
             <div className="burger-navbar">
                 <div className="container nav-container">
                     <div className="logo">
-                        <img src="/src/assets/Images/eden-logos_black_111.png" />
+                        <img src={Logo} />
                     </div>
                     <input className="checkbox" type="checkbox" name="" id="" />
                     <div className="hamburger-lines">
