@@ -18,7 +18,7 @@ export default function Menu() {
                     <div className="menu-items">
                         <li><a href="#">Portfolio</a></li>
                         <li><a href="#">Contact</a></li>
-                        <li><a href="#">Resume</a></li>
+                        <li><a href={EDCV} download="Eden Dayan CV" target='_blank'>Resume</a></li>
                     </div>
                 </div>
             </div>

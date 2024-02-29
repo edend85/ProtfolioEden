@@ -1,21 +1,6 @@
 import React from 'react';
 import '../styles/Styels.css';
 import BGImg from '../assets/Images/bg3.png'
-/*
-<div className="contanier-b">
-        <div className="bubbles">
-          <img src="/src/assets/Images/mongodb.svg" />
-          <img src="/src/assets/Images/icons8-sql-64.png" />
-          <img src="/src/assets/Images/c.svg" />
-          <img src="/src/assets/Images/css.svg" />
-          <img src="/src/assets/Images/javascript.svg" />
-          <img src="/src/assets/Images/react.svg" />
- </div>
- </div >
-  <a href="https://github.com/edend85">
-              <img src="/src/assets/Images/github_icon.svg" />
-            </a>
-* */
 
 export default function Header() {
   return (
