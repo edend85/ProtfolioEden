@@ -1,5 +1,7 @@
 import React from 'react';
 import '../styles/Styels.css';
+
+/*<hr style={{ borderTop: "1px solid lightgrey", margin: "0 1em" }}></hr> */
 export default function AboutMe() {
     return (
         <>
@@ -34,8 +36,7 @@ export default function AboutMe() {
                     </p>
                 </div>
             </div>
-            <hr style={{ borderTop: "1px solid lightgrey", margin: "0 1em" }}>
-            </hr>
+
         </>
 
     )

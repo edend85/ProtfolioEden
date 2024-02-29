@@ -10,6 +10,7 @@
 }
 *{
     box-sizing: border-box;
+    margin: 0;
 }
 body{
     font-family: 'Rubik', sans-serif;
@@ -37,7 +38,7 @@ button:hover{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    box-shadow: 0 1px 4px rgb(146 161 176 / 20%);
+    /*box-shadow: 0 1px 4px rgb(146 161 176 / 20%);*/
 }
 .navbar ul{
     display: flex;
@@ -73,7 +74,7 @@ button:hover{
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    line-height: 3em;
+    line-height: 2em;
 }
 .title{
     font-weight: bold;
@@ -87,7 +88,7 @@ button:hover{
 .social-media-links{
     display: flex;
     justify-content: center;
-    padding-bottom: 0.5em;
+    /*padding-bottom: 0.5em;*/
 }
 .social-media-links-button{
     display: flex;
