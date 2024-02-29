@@ -1,44 +1,20 @@
 [
     {
-        "id":1,
-        "image":"https://uploads.sitepoint.com/wp-content/uploads/2021/09/1632727310react-calculator-app.jpg",
-        "title":"calculator app",
-        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus doloremque maiores commodi repellendus, reiciendis dolorum, quibusdam laudantium id sit sint temporibus natus dic a multipule technologies as ",
-        "link":"#"
+        "_id":0,
+        "prjtitle":"Final Project - SmokeEye",
+        "prjdemolink":"#",
+        "prjgithublink":"#",
+        "prjdescription":"This application was born in collaboration with Dr. Yael Bar-Zev from the Israeli Ministry of Health. this app is intended to providean actual research tool for the benefit of the residents,but in order to develop a systematic and up-to-dateinformation base with geographic segmentation for thebenefit of research work and in addition to the work of theenforcement agencies in the city.",
+        "note":"Note: This project is done with a partner",
+        "prjtechnologies":"HTML, CSS, Node.js, JavaScript (React.js, React Native), MongoDB."
     },
     {
-        "id":2,
-        "image":"https://uploads.sitepoint.com/wp-content/uploads/2021/09/1632727310react-calculator-app.jpg",
-        "title":"calculator app",
-        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus doloremque maiores commodi repellendus, reiciendis dolorum, quibusdam laudantium id sit sint temporibus natus dic a multipule technologies as ",
-        "link":"#"
-    },
-    {
-        "id":3,
-        "image":"https://uploads.sitepoint.com/wp-content/uploads/2021/09/1632727310react-calculator-app.jpg",
-        "title":"calculator app",
-        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus doloremque maiores commodi repellendus, reiciendis dolorum, quibusdam laudantium id sit sint temporibus natus dic a multipule technologies as ",
-        "link":"#"
-    },
-    {
-        "id":4,
-        "image":"https://uploads.sitepoint.com/wp-content/uploads/2021/09/1632727310react-calculator-app.jpg",
-        "title":"calculator app",
-        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus doloremque maiores commodi repellendus, reiciendis dolorum, quibusdam laudantium id sit sint temporibus natus dic a multipule technologies as ",
-        "link":"#"
-    },
-    {
-        "id":5,
-        "image":"https://uploads.sitepoint.com/wp-content/uploads/2021/09/1632727310react-calculator-app.jpg",
-        "title":"calculator app",
-        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus doloremque maiores commodi repellendus, reiciendis dolorum, quibusdam laudantium id sit sint temporibus natus dic a multipule technologies as ",
-        "link":"#"
-    },
-    {
-        "id":6,
-        "image":"https://uploads.sitepoint.com/wp-content/uploads/2021/09/1632727310react-calculator-app.jpg",
-        "title":"calculator app",
-        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus doloremque maiores commodi repellendus, reiciendis dolorum, quibusdam laudantium id sit sint temporibus natus dic a multipule technologies as ",
-        "link":"#"
+        "_id":1,
+        "prjtitle":"Authentication Website",
+        "prjdemolink":"https://authentication-zi9e.onrender.com",
+        "prjgithublink":"#",
+        "prjdescription":"secure authentication website that allows users to sign up, log in using email and password, and utilize social media login options with Google and Facebook. The project uses a stack of",
+        "note":"",
+        "prjtechnologies":"HTML, CSS, Node.js, JavaScript (React.js, React Native), MongoDB."
     }
 ]

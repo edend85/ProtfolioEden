@@ -67,7 +67,7 @@ button:hover{
     background-image:linear-gradient(rgb(81, 175, 199), rgb(62, 121, 231) 100%);
 }
 .bgContainer img{
-    width: 40%;
+    width: 20%;
 }
 .header{
     display: flex;
