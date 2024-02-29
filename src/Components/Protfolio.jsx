@@ -59,7 +59,7 @@ export default function Protfolio() {
                                         <button><a href={Prj.prjgithublink}></a>GitHub</button>
                                     </div>
                                 </div>
-                                <p className='bold'>{Prj.note}</p>
+                                <p className='note'>{Prj.note}</p>
                                 <p>{Prj.prjdescription}</p>
                                 <p className='gray-p'>technologies including: <br></br>{Prj.prjtechnologies}</p>
                             </div>

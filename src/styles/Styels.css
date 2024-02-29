@@ -33,7 +33,6 @@ button:hover{
     background-color: var(--primary-color);
     color: #aacbff;
 }
-
 .nav-frame{
     display: flex;
     justify-content: space-between;
@@ -98,7 +97,7 @@ button:hover{
     font-size: var(--text-size-20);
 }
 .social-media-links a svg:hover{
-    fill: #007cff;
+    fill: #4bcbcf;
 }
 #main-about{
    padding: 2em;
@@ -115,7 +114,6 @@ button:hover{
     flex-wrap: wrap;
     justify-content: center;
 }
-
 .singal-project{
     padding: 0.5em;
     margin: 0.7em;
@@ -137,7 +135,6 @@ button:hover{
     color: rgb(166, 167, 167);
     margin: 1.2em 0;
 }
-
 .singal-project p{
     text-align: left;
     padding: 0 0.3em;
@@ -146,10 +143,12 @@ button:hover{
     margin: 0.4em;
     width: 80%;
 }
-
 .singal-project img{
     width: 4em;
     height: 4em;
+}
+.note{
+    font-weight: 700;
 }
 #footer{
     color: var(--secondery-color);
