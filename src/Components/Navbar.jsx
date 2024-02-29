@@ -1,6 +1,7 @@
 import '../styles/Styels.css';
 import { HashLink } from 'react-router-hash-link';
 import EDCV from '../assets/Documents/Eden_Dayan_CV.pdf'
+import Logo from '../assets/Images/eden-logos_black_111.png'
 
 export default function Navbar() {
   return (
@@ -8,7 +9,7 @@ export default function Navbar() {
       <div className='nav-frame'>
         <div>
           <div className='logo-link'>
-            <img src='/src/assets/Images/eden-logos_black_111.png' />
+            <img src={Logo} />
           </div>
         </div>
         <div className='navbar'>
