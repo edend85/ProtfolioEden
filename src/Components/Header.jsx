@@ -1,7 +1,6 @@
 import React from 'react';
 import '../styles/Styels.css';
-import '../styles/bubbles.css';
-import Bubbels from './Bubbels';
+import BGImg from '../assets/Images/bg3.png'
 /*
 <div className="contanier-b">
         <div className="bubbles">
@@ -48,7 +47,7 @@ export default function Header() {
             <button>Learn More on My Projects</button>
           </div>
         </div>
-        <img src="./assets/Sandy_Tech-28_Single-06.jpg" />
+        <img src={BGImg} />
       </div>
     </>
 
