@@ -19,8 +19,8 @@ export default function Protfolio() {
                                     <img src={PrjIcon} />
                                     <h4>{Prj.prjtitle}</h4>
                                     <div className='singal-project-btns'>
-                                        <button><a href={Prj.prjdemolink}></a>Demo</button>
-                                        <button><a href={Prj.prjgithublink}></a>GitHub</button>
+                                        <button><a href={Prj.prjdemolink}>Demo</a></button>
+                                        <button><a href={Prj.prjgithublink}>GitHub</a></button>
                                     </div>
                                 </div>
                                 <p className='note'>{Prj.note}</p>

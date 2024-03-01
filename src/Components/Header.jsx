@@ -29,7 +29,7 @@ export default function Header() {
             </a>
           </div>
           <div className='social-media-links-button'>
-            <HashLink to="#projects-grid">Learn More on My Projects</HashLink>
+            <button><a href="#projects-grid">Learn More on My Projects</a></button>
           </div>
         </div>
         <img src={BGImg} />

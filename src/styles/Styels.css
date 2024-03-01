@@ -29,6 +29,8 @@ button{
     background-color: transparent;
     cursor: pointer;
 }
+.singal-project-btns a:hover,
+.social-media-links-button a:hover,
 button:hover{
     background-color: var(--primary-color);
     color: #aacbff;
@@ -98,6 +100,11 @@ button:hover{
 }
 .social-media-links a svg:hover{
     fill: #4bcbcf;
+}
+.singal-project-btns a,
+.social-media-links-button a{
+    text-decoration: none;
+    color: var(--primary-color);
 }
 #main-about{
    padding: 2em;
