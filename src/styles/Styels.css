@@ -89,7 +89,6 @@ button:hover{
 .social-media-links{
     display: flex;
     justify-content: center;
-    /*padding-bottom: 0.5em;*/
 }
 .social-media-links-button{
     display: flex;
@@ -100,6 +99,12 @@ button:hover{
 }
 .social-media-links a svg:hover{
     fill: #4bcbcf;
+}
+.singal-project-btns a{
+    border: 1px solid black;
+    padding: 3px 10px;
+    border-radius: 5px;
+    margin: 0.15em 0;
 }
 .singal-project-btns a,
 .social-media-links-button a{
@@ -146,9 +151,10 @@ button:hover{
     text-align: left;
     padding: 0 0.3em;
 }
-.singal-project-btns button{
-    margin: 0.4em;
-    width: 80%;
+.singal-project-btns{
+    display: grid;
+    align-items: center;
+    justify-content: center;
 }
 .singal-project img{
     width: 4em;
