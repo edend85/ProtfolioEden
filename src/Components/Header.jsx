@@ -28,8 +28,8 @@ export default function Header() {
               </svg>
             </a>
           </div>
-          <div className='social-media-links-button'>
-            <button><a href="#projects-grid">Learn More on My Projects</a></button>
+          <div className='social-media-links-projects'>
+            <a href="#projects-grid">Learn More on My Projects</a>
           </div>
         </div>
         <img src={BGImg} />

@@ -30,7 +30,7 @@ button{
     cursor: pointer;
 }
 .singal-project-btns a:hover,
-.social-media-links-button a:hover,
+.social-media-links-projects a:hover,
 button:hover{
     background-color: var(--primary-color);
     color: #aacbff;
@@ -90,12 +90,15 @@ button:hover{
     display: flex;
     justify-content: center;
 }
-.social-media-links-button{
+.social-media-links-projects{
     display: flex;
     justify-content: center;
 }
-.social-media-links-button button{
+.social-media-links-projects a{
     font-size: var(--text-size-20);
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 0 0.5em;
 }
 .social-media-links a svg:hover{
     fill: #4bcbcf;
@@ -107,7 +110,7 @@ button:hover{
     margin: 0.15em 0;
 }
 .singal-project-btns a,
-.social-media-links-button a{
+.social-media-links-projects a{
     text-decoration: none;
     color: var(--primary-color);
 }
@@ -244,7 +247,7 @@ button:hover{
         font-size: var(--text-size-12);
         line-height: 1em;
     }
-    .social-media-links-button button {
+    .social-media-links-projects a {
         font-size: 10px;
     }
     #projects-grid{
@@ -288,8 +291,8 @@ button:hover{
         height: 30px;
     }
     .bgContainer img{
-        width: 45%;
-        height: 55vh;
+        width: 55%;
+        /*height: 55vh;*/
     }
     .second-title {
         font-size: 20px;
@@ -298,7 +301,7 @@ button:hover{
     .logo-link img {
         width: 10em; /* Adjust the logo size as needed */
     }
-    .social-media-links-button button {
+    .social-media-links-projects a {
         font-size:14px;
     }
     .self-description{
