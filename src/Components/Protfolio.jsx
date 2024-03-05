@@ -22,7 +22,9 @@ export default function Protfolio() {
                                         {
                                             Prj.prjdemolink == null ? <p></p> : <a href={Prj.prjdemolink}>Demo</a>
                                         }
-                                        <a href={Prj.prjgithublink}>GitHub</a>
+                                        {
+                                            Prj.prjgithublink == null ? <p></p> : <a href={Prj.prjgithublink}>GitHub</a>
+                                        }
                                     </div>
                                 </div>
                                 <p className='note'>{Prj.note}</p>
