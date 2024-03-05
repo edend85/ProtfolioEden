@@ -12,7 +12,7 @@
         "_id":1,
         "prjtitle":"Authentication Website",
         "prjdemolink":"https://authentication-zi9e.onrender.com",
-        "prjgithublink":"#",
+        "prjgithublink":"https://github.com/edend85/Auth_website.git",
         "prjdescription":"secure authentication website that allows users to sign up, log in using email and password, and utilize social media login options with Google and Facebook. The project uses a stack of",
         "note":"",
         "prjtechnologies":"HTML, CSS, Node.js, JavaScript (React.js, React Native), MongoDB."
