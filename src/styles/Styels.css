@@ -163,11 +163,11 @@ button:hover{
     width: 4em;
     height: 4em;
 }
-.disable a{
+.singal-project-btns .disable a{
     pointer-events: none;
     color: #dde5f0;
 }
-.disable a:hover{
+.singal-project-btns .disable a:hover{
     pointer-events: none;
     background-color: transparent;
     color: #dde5f0;
