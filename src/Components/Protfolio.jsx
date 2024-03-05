@@ -19,7 +19,9 @@ export default function Protfolio() {
                                     <img src={PrjIcon} />
                                     <h4>{Prj.prjtitle}</h4>
                                     <div className='singal-project-btns'>
-                                        <a href={Prj.prjdemolink}>Demo</a>
+                                        {
+                                            Prj.prjdemolink == null ? <a href={Prj.prjdemolink} aria-disabled="true">Demo</a> : <a href={Prj.prjdemolink}>Demo</a>
+                                        }
                                         <a href={Prj.prjgithublink}>GitHub</a>
                                     </div>
                                 </div>
