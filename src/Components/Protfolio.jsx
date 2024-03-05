@@ -20,7 +20,7 @@ export default function Protfolio() {
                                     <h4>{Prj.prjtitle}</h4>
                                     <div className='singal-project-btns'>
                                         {
-                                            Prj.prjdemolink == null ? <button disabled="false"><a href={Prj.prjdemolink}>Demo</a></button> : <a href={Prj.prjdemolink}>Demo</a>
+                                            Prj.prjdemolink == null ? <a href={Prj.prjdemolink} className='disable'>Demo</a> : <a href={Prj.prjdemolink}>Demo</a>
                                         }
                                         <a href={Prj.prjgithublink}>GitHub</a>
                                     </div>
