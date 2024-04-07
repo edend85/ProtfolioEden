@@ -1,6 +1,6 @@
 import '../styles/Styels.css';
 import { HashLink } from 'react-router-hash-link';
-import EDCV from '../assets/Documents/edenDayanCV.pdf'
+import EDCV from '../assets/Documents/Eden_Dayan_CV.pdf'
 import Logo from '../assets/Images/eden-logos_black_111.png'
 
 export default function Navbar() {

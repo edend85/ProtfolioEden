@@ -1,6 +1,6 @@
 import '../styles/Styels.css';
 import Logo from '../assets/Images/eden-logos_black_111.png'
-import EDCV from '../assets/Documents/edenDayanCV.pdf'
+import EDCV from '../assets/Documents/Eden_Dayan_CV.pdf'
 export default function Menu() {
 
     return (
