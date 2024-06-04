@@ -3,7 +3,7 @@
         "_id":0,
         "prjtitle":"Final Project - SmokeEye",
         "prjdemolink":null,
-        "prjgithublink":"https://github.com/edend85/Auth_website.git",
+        "prjgithublink":"https://github.com/edend85/SmokeEye-Project.git",
         "prjdescription":"This application was born in collaboration with Dr. Yael Bar-Zev from the Israeli Ministry of Health. this app is intended to providean actual research tool for the benefit of the residents,but in order to develop a systematic and up-to-dateinformation base with geographic segmentation for thebenefit of research work and in addition to the work of theenforcement agencies in the city.",
         "note":"Note: This project is done with a partner",
         "prjtechnologies":"HTML, CSS, Node.js, JavaScript (React.js, React Native), MongoDB."
