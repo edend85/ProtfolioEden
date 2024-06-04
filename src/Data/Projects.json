@@ -21,7 +21,7 @@
         "_id":2,
         "prjtitle":"To-DO-List Tasks",
         "prjdemolink":"https://todo-tasks-list.onrender.com/",
-        "prjgithublink":"git@github.com:edend85/TODO-Tasks-List.git",
+        "prjgithublink":"https://github.com/edend85/TODO-Tasks-List.git",
         "prjdescription":"TODO List tasks app with ability to create, edit, check, delete, sort and search any task",
         "note":"Personal Project",
         "prjtechnologies":"HTML, CSS, Python (Flask), PostgreSQL (AWS)"
