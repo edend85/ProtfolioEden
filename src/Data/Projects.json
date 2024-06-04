@@ -14,7 +14,16 @@
         "prjdemolink":"https://authentication-zi9e.onrender.com",
         "prjgithublink":"https://github.com/edend85/Auth_website.git",
         "prjdescription":"secure authentication website that allows users to sign up, log in using email and password, and utilize social media login options with Google and Facebook. The project uses a stack of",
-        "note":"",
+        "note":"Personal Project",
         "prjtechnologies":"HTML, CSS, Node.js, JavaScript (React.js, React Native), MongoDB."
+    }
+    {
+        "_id":2,
+        "prjtitle":"To-DO-List Tasks",
+        "prjdemolink":"https://todo-tasks-list.onrender.com/",
+        "prjgithublink":"git@github.com:edend85/TODO-Tasks-List.git",
+        "prjdescription":"secure authentication website that allows users to sign up, log in using email and password, and utilize social media login options with Google and Facebook. The project uses a stack of",
+        "note":"Personal Project",
+        "prjtechnologies":"HTML, CSS, Python (Flask), PostgreSQL"
     }
 ]
